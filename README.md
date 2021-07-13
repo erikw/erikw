@@ -1,4 +1,7 @@
-# `from collections import namedtuple as nt; print("Hi, I'm {0.firstname}".format(nt('Person', 'firstname lastname')("Erik", "Westrup")))`
+```console
+$ python3 -c "from collections import namedtuple as nt; print('Hi, I\'m {0.firstname}'.format(nt('Person', 'firstname lastname')('Erik', 'Westrup')))" 
+```
+# Hi, I'm Erik
 
 
 
