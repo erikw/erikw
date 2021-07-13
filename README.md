@@ -1,4 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/erikw)
 ```console
 $ python3 -c "from collections import namedtuple as nt; print('Hi, I\'m {0.firstname}'.format(nt('Person', 'firstname lastname')('Erik', 'Westrup')))" 
 ```
@@ -53,3 +52,4 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <a href="https://github.com/erikw/jekyll-google_search_console_verification_file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file" />
 </a>
+<img src="https://gpvc.arturio.dev/erikw" align="right" />
