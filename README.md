@@ -1,6 +1,13 @@
-```console
-$ python3 -c "from collections import namedtuple as nt; print('Hi, I\'m {0.firstname}'.format(nt('Person', 'firstname lastname')('Erik', 'Westrup')))" 
+<h3>
+<!-- Empty line needed before code block -->
+
+```python
+from collections import namedtuple as nt
+print("Hi, I'm {0.firstname}".format(nt("SoftwareEngineer", "firstname lastname")("Erik", "Westrup")))
+
 ```
+</h3>
+
 # Hi, I'm Erik
 <a href="https://github.com/erikw" title="Erik's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=erikw&count_private=true&show_icons=true&theme=radical&custom_title=Erik%27s%20GitHub%20Stats" title="Erik's GitHub Stats" align="right" width="60%" alt="Erik's GitHub Stats" />
