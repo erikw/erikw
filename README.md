@@ -14,13 +14,13 @@ Engineering Manager at [@researchgate](https://github.com/researchgate). Previou
 
 Welcome to my GitHub profile
 
-# More information
+## More information
 
 - **Homepage**: <https://erikw.me/>
 
 
 
-# Pinned repos
+## Pinned repos
 <a href="https://github.com/erikw/exsportify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=exsportify" />
 </a>
