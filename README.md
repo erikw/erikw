@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 - **LinkedIn**: <https://www.linkedin.com/in/erikwestrup/>
 
 
-## My Octocat
+## My :octocat:
 <a href="https://myoctocat.com/">
   <img align="center" src="/erik_octocat.png" width="30%" alt="My OctoCat" />
 </a>
