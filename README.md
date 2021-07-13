@@ -9,11 +9,18 @@ $ python3 -c "from collections import namedtuple as nt; print('Hi, I\'m {0.first
 
 *Fngineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Dev at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications)*
 
-Welcome to my GitHub profile
+Welcome to my GitHub profile!
+
+* **What?** Here you can find my public git repos. Since I've been on Github 2010, my profile now has a big mixed bag of projects!
+* **How?** I've pinned a few down below that you may find interesting.
+* **Why?** My motivation is to make people's daily life better, by coding solutions to their problems! You'll find some of those solutions shared here. Check out my [blog](https://erikw.me/blog) for further showcase of some solutions.
+
+
 
 ## More information
 
 - **Homepage**: <https://erikw.me/>
+- **LinkedIn**: <https://www.linkedin.com/in/erikwestrup/>
 
 
 ## My Octocat
