@@ -7,7 +7,7 @@ $ python3 -c "from collections import namedtuple as nt; print('Hi, I\'m {0.first
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikw&layout=compact&langs_count=10&hide=html&custom_title=Erik%27s%20Top%20Languages&theme=synthwave" title="Erik's Top Programming Languages" align="right" width="40%" alt="Erik's Top Programming Languages" />
 </a>
 
-*Fngineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Dev at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications)*
+*Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Dev at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications)*
 
 Welcome to my GitHub profile!
 
