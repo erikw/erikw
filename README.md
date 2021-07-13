@@ -36,6 +36,7 @@ Welcome to my GitHub profile!
 ![](https://img.shields.io/badge/Code%20Review-Gerrit-informational?style=flat&&color=2bbc8a&logo=gerrit)
 ![](https://img.shields.io/badge/Music-Electronic-informational?style=flat&&color=2bbc8a&logo=applemusic)
 ![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=awesomelists)
+
 but I'm flexible when needed, and I have even pair-programmed in Emacs...
 
 ## Pinned Repos
