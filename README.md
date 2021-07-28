@@ -21,7 +21,7 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 
 Welcome to my GitHub profile!
 
-* **What?**:point_right: Here you can find my public git repos. Since I've been on Github 2010, my profile now has a big mixed bag of projects!
+* **What?**:point_right: Here you can find my public git repos. As I've been on Github since 2010, my profile now has a big mixed bag of projects!
 * **How?** :point_right: I've pinned a few down below that you may find interesting.
 * **Why?** :point_right: My motivation is to make people's daily life better, by coding solutions to their problems! You'll find some of those solutions shared here. Check out my [blog](https://erikw.me/blog) for further showcase of some solutions.
 
