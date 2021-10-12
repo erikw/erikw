@@ -13,9 +13,10 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 ![Typing my name](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=from%20collections%20import%20namedtuple%20as%20NT;print(%22Hi,%20I%27m%20{0.fname}%22.format(NT(%22SoftwareEngineer%22,%20%22fname%20lname%22)(%22Erik%22,%20%22Westrup%22))))
 # Hi, I'm Erik
 <!-- <a href="https://github.com/erikw" title="Erik's GitHub Stats"> -->
+<a href="#" title="Erik's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api?username=erikw&count_private=true&show_icons=true&theme=radical&custom_title=Erik%27s%20Public%20GitHub%20Stats" title="Erik's GitHub Stats" align="right" width="60%" alt="Erik's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikw&layout=compact&langs_count=10&hide=html&custom_title=Erik%27s%20Top%20Languages&theme=radical" title="Erik's Top Programming Languages" align="right" width="40%" alt="Erik's Top Programming Languages" />
-<!-- </a> -->
+</a>
 
 *Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications)*
 
