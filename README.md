@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 [![Visitors Badge](https://gpvc.arturio.dev/erikw)](https://github.com/erikw)
 ![Years Badge](https://badges.pufler.dev/years/erikw)
 [![Repos Badge](https://badges.pufler.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/erikw)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/erikw)](https://gist.github.com/erikw)
 
 
 - **Homepage**: <https://erikw.me/>
@@ -67,4 +67,3 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <a href="https://github.com/erikw/jekyll-google_search_console_verification_file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file" />
 </a>
-
