@@ -10,7 +10,7 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 </h3>
 -->
 
-![Typing my name](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=from%20collections%20import%20namedtuple%20as%20NT;print(%22Hi,%20I%27m%20{0.fname}%22.format(NT(%22SoftwareEngineer%22,%20%22fname%20lname%22)(%22Erik%22,%20%22Westrup%22))))
+[![Typing my name](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=from%20collections%20import%20namedtuple%20as%20NT;print(%22Hi,%20I%27m%20{0.fname}%22.format(NT(%22SoftwareEngineer%22,%20%22fname%20lname%22)(%22Erik%22,%20%22Westrup%22))))](#)
 # Hi, I'm Erik
 <!-- <a href="https://github.com/erikw" title="Erik's GitHub Stats"> -->
 <a href="#" title="Erik's GitHub Stats">
