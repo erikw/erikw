@@ -28,8 +28,8 @@ Welcome to my GitHub profile!
 
 
 ## More information
-[![Visitors Badge](https://gpvc.arturio.dev/erikw)](https://github.com/erikw)
-![Years Badge](https://badges.pufler.dev/years/erikw)
+[Visitors Badge](https://gpvc.arturio.dev/erikw)
+[Years Badge](https://badges.pufler.dev/years/erikw)
 [![Repos Badge](https://badges.pufler.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/erikw)](https://gist.github.com/erikw)
 
