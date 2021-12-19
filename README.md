@@ -68,9 +68,6 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <a href="https://github.com/erikw/jekyll-google_search_console_verification_file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file" />
 </a>
-<a href="https://github.com/erikw/jekyll-google_search_console_verification_file">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file" />
-</a>
 <a href="https://github.com/erikw/nestedtext-ruby">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=nestedtext-ruby" />
 </a>
