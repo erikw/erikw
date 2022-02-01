@@ -29,6 +29,7 @@ Welcome to my GitHub profile!
 
 
 ## More information
+GitHub stats:<br>
 [![Years Badge](https://badges.pufler.dev/years/erikw)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
 [![Gists Badge](https://badges.pufler.dev/gists/erikw)](https://gist.github.com/erikw)
