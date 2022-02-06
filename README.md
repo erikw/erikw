@@ -39,6 +39,12 @@ GitHub stats:<br>
 
 - **Homepage**: <https://erikw.me/>
 - **LinkedIn**: <https://www.linkedin.com/in/erikwestrup/>
+- **RubyGems**: <https://rubygems.org/profiles/erikw>
+- **PyPi**: <https://pypi.org/user/erikw/>
+- **AUR**: <https://aur.archlinux.org/packages?SeB=M&K=erikw>
+- **HackerRank**: <https://www.hackerrank.com/erikw>
+- **Keybase**: <https://keybase.io/erikwestrup>
+- **Gist**: <https://gist.github.com/erikw/>
 
 
 ## My :octocat:
