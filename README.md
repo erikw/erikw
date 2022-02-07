@@ -58,6 +58,7 @@ GitHub stats:<br>
 [![](https://img.shields.io/badge/Editor-vim-informational?style=flat&&color=2bbc8a&logo=vim)](#)
 [![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=accenture)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
+[![](https://img.shields.io/badge/Web%20Browser-Firefox-informational?style=flat&&color=2bbc8a&logo=firefoxbrowser)](#)
 [![](https://img.shields.io/badge/Theme-solarized-informational?style=flat&&color=2bbc8a&logo=awesomelists)](https://ethanschoonover.com/solarized/)
 [![](https://img.shields.io/badge/Code%20Review-Gerrit-informational?style=flat&&color=2bbc8a&logo=gerrit)](https://www.gerritcodereview.com/)
 [![](https://img.shields.io/badge/Programming%20Language-Best%201%204%20the%20job-informational?style=flat&&color=2bbc8a&logo=pastebin)](#)
