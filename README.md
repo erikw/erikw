@@ -18,7 +18,7 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikw&layout=compact&langs_count=10&hide=html&custom_title=Erik%27s%20Top%20Languages&theme=radical" title="Erik's Top Programming Languages" align="right" width="40%" alt="Erik's Top Programming Languages" />
 </a>
 
-*Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at @ControlLTH/@lunduniversity*
+*Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)*
 
 Welcome to my GitHub profile!
 
