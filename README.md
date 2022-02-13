@@ -73,8 +73,8 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <a href="https://github.com/erikw/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles" />
 </a>
-<a href="https://github.com/erikw/restic-systemd-automatic-backup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=restic-systemd-automatic-backup" />
+<a href="https://github.com/erikw/restic-automatic-backup-scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=restic-automatic-backup-scheduler" />
 </a>
 <a href="https://github.com/erikw/jekyll-google_search_console_verification_file">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file" />
