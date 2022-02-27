@@ -64,6 +64,7 @@ GitHub stats:<br>
 ## When I can choose, it would be...
 <!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 [![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
+[![](https://img.shields.io/badge/Mobile%20OS-Android-informational?style=flat&color=2bbc8a&logo=android)](#)
 [![](https://img.shields.io/badge/Editor-vim-informational?style=flat&&color=2bbc8a&logo=vim)](#)
 [![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=accenture)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
