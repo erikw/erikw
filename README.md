@@ -29,12 +29,12 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 
 <div align="right">
   <a href="https://github.com/erikw/github-stats#gh-dark-mode-only">
-    <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+    <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"  width="55%" alt="Erik's GitHub Stats" />
+    <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" width="45%" alt="Erik's Top Programming Languages" />
   </a>
   <a href="https://github.com/erikw/github-stats#gh-light-mode-only">
-    <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-    <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+    <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only"  width="55%" alt="Erik's GitHub Stats" />
+    <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" width="45%" alt="Erik's Top Programming Languages" />
   </a>
 </div>
 
