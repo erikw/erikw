@@ -28,11 +28,11 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
 -->
 
 <div align="right">
-  <a href="https://github.com/erikw/github-stats#gh-dark-mode-only">
+  <a href="#gh-dark-mode-only">
     <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
     <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
   </a>
-  <a href="https://github.com/erikw/github-stats#gh-light-mode-only">
+  <a href="gh-light-mode-only">
     <img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
     <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
   </a>
