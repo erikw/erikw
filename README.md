@@ -88,57 +88,19 @@ GitHub stats:<br>
 but I'm flexible when needed, and I have even pair-programmed in Emacs...
 
 ## Pinned Repos
-<!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 
+<!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-powerline#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-powerline#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/erikw/dotfiles#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/erikw/dotfiles#gh-light-mode-only)
--->
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<!-- Use table to align rows. In table, can't use markdown image syntax. -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%">
-<a href="https://github.com/erikw/tmux-powerline#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only" alt="Readme Card" />
-</a>
-<a href="https://github.com/erikw/tmux-powerline#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only" alt="Readme Card" />
-</a>
-    </td>
-    <td>
-<a href="https://github.com/erikw/dotfiles#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only" alt="Readme Card" height="100%" />
-</a>
-<a href="https://github.com/erikw/dotfiles#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only" alt="Readme Card" />
-</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=restic-automatic-backup-scheduler&theme=dark#gh-dark-mode-only)](https://github.com/erikw/restic-automatic-backup-scheduler#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=restic-automatic-backup-scheduler&theme=default#gh-light-mode-only)](https://github.com/erikw/restic-automatic-backup-scheduler#gh-light-mode-only)
-    </td>
-    <td>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file&theme=dark#gh-dark-mode-only)](https://github.com/erikw/jekyll-google_search_console_verification_file#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=jekyll-google_search_console_verification_file&theme=default#gh-light-mode-only)](https://github.com/erikw/jekyll-google_search_console_verification_file#gh-light-mode-only)
-    </td>
-  </tr>
-  <tr>
-    <td>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=nestedtext-ruby&theme=dark#gh-dark-mode-only)](https://github.com/erikw/nestedtext-ruby#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=nestedtext-ruby&theme=default#gh-light-mode-only)](https://github.com/erikw/nestedtext-ruby#gh-light-mode-only)
-    </td>
-    <td>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=dark#gh-dark-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=default#gh-light-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-light-mode-only)
-    </td>
-  </tr>
-</table>
 
 
 <!-- unused
