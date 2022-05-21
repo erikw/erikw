@@ -96,7 +96,7 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <!-- Use table to align rows. In table, can't use markdown image syntax. -->
 <table style="border: none">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: none">
 <a href="https://github.com/erikw/tmux-powerline#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only" alt="Readme Card" />
 </a>
