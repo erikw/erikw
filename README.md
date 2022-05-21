@@ -37,7 +37,8 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
     <img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" width="45%" align="right" alt="Erik's Top Programming Languages" />
   </a>
 </div>
-Engineering Manager at [ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)
+
+Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)
 
 Welcome to my GitHub profile!
 
@@ -47,6 +48,7 @@ Welcome to my GitHub profile!
 
 
 
+Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)
 
 ## More information
 GitHub stats:<br>
