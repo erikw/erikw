@@ -88,7 +88,12 @@ GitHub stats:<br>
 but I'm flexible when needed, and I have even pair-programmed in Emacs...
 
 ## Pinned Repos
-<!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
+<!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/erikw/dotfiles#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/erikw/dotfiles#gh-light-mode-only)
+-->
+
+<!-- Use table to align rows. In table, can't use markdown image syntax. -->
 <table style="border: none">
   <tr>
     <td>
@@ -100,8 +105,12 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 </a>
     </td>
     <td>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/erikw/dotfiles#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/erikw/dotfiles#gh-light-mode-only)
+<a href="https://github.com/erikw/dotfiles#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only" alt="Readme Card" />
+</a>
+<a href="https://github.com/erikw/dotfiles#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only" alt="Readme Card" />
+</a>
     </td>
   </tr>
   <tr>
