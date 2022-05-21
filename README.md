@@ -106,7 +106,7 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
     </td>
     <td>
 <a href="https://github.com/erikw/dotfiles#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only" alt="Readme Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only" alt="Readme Card" height="100%" />
 </a>
 <a href="https://github.com/erikw/dotfiles#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only" alt="Readme Card" />
