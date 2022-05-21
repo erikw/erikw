@@ -48,8 +48,6 @@ Welcome to my GitHub profile!
 
 
 
-Engineering Manager at [@ResearchGate](https://github.com/researchgate). Previously Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)
-
 ## More information
 GitHub stats:<br>
 [![Years Badge](https://badges.pufler.dev/years/erikw)](#)
