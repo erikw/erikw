@@ -89,7 +89,7 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 
 ## Pinned Repos
 <!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
-<table>
+<table style="border: none">
   <tr>
     <td>
 <a href="https://github.com/erikw/tmux-powerline#gh-dark-mode-only">
