@@ -93,6 +93,11 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/erikw/dotfiles#gh-light-mode-only)
 -->
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <!-- Use table to align rows. In table, can't use markdown image syntax. -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
