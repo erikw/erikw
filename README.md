@@ -92,8 +92,12 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <table>
   <tr>
     <td>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-powerline#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-powerline#gh-light-mode-only)
+<a href="https://github.com/erikw/tmux-powerline#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only" alt="Readme Card" />
+</a>
+<a href="https://github.com/erikw/tmux-powerline#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only" alt="Readme Card" />
+</a>
     </td>
     <td>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/erikw/dotfiles#gh-dark-mode-only)
