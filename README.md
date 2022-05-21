@@ -109,6 +109,8 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-powerline#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-powerline#gh-light-mode-only)
 
 
 <!-- unused
