@@ -103,6 +103,7 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=default#gh-light-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-light-mode-only)
 
 
+
 <!-- unused
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=erikw&hide_border=true&theme=redical)
 <a href="#" title="GitHub Streak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erikw" align="right" width="45%" /></a>
