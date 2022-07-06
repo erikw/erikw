@@ -87,12 +87,6 @@ GitHub stats:<br>
 
 but I'm flexible when needed, and I have even pair-programmed in Emacs...
 
-
-## More stats
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
-
-
 ## Pinned Repos
 <!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-powerline#gh-dark-mode-only)
