@@ -57,14 +57,14 @@ GitHub stats:<br>
 
 
 
-- **Homepage**: <https://erikw.me>
-- **LinkedIn**: <https://www.linkedin.com/in/erikwestrup>
-- **RubyGems**: <https://rubygems.org/profiles/erikw>
-- **PyPi**: <https://pypi.org/user/erikw>
-- **AUR**: <https://aur.archlinux.org/packages?SeB=M&K=erikw>
-- **HackerRank**: <https://www.hackerrank.com/erikw>
-- **Keybase**: <https://keybase.io/erikwestrup>
-- **Gist**: <https://gist.github.com/erikw>
+- **Homepage**: [erikw.me](https://erikw.me)
+- **LinkedIn**: [linkedin.com/in/erikwestrup](https://www.linkedin.com/in/erikwestrup)
+- **RubyGems**: [rubygems.org/profiles/erikw](https://rubygems.org/profiles/erikw)
+- **PyPi**: [pypi.org/user/erikw](https://pypi.org/user/erikw)
+- **AUR**: [aur.archlinux.org/packages?SeB=M&K=erikw](https://aur.archlinux.org/packages?SeB=M&K=erikw)
+- **HackerRank**: [hackerrank.com/erikw](https://www.hackerrank.com/erikw)
+- **Keybase**: [keybase.io/erikwestrup](https://keybase.io/erikwestrup)
+- **Gist**: [gist.github.com/erikw](https://gist.github.com/erikw)
 
 
 ## My :octocat:
