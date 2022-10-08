@@ -50,10 +50,13 @@ Welcome to my GitHub profile!
 
 ## More information
 GitHub stats:<br>
-[![Years Badge](https://badges.pufler.dev/years/erikw)](#)
-[![Repos Badge](https://badges.pufler.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
-[![Gists Badge](https://badges.pufler.dev/gists/erikw)](https://gist.github.com/erikw)
-[![Commits Badge](https://badges.pufler.dev/commits/all/erikw)](#)
+[![Number of years at GitHub](https://badges.strrl.dev/years/erikw)](#)
+[![Number of public repositories](https://badges.strrl.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
+[![Number of public Gists](https://badges.strrl.dev/gists/erikw)](https://gist.github.com/erikw)
+[![All contributions](https://badges.strrl.dev/contributions/all/erikw)](#)
+[![Total commits](https://badges.strrl.dev/commits/all/erikw)](#)
+[![Total issues](https://badges.strrl.dev/issues/all/erikw)](#)
+[![Total PRs](https://badges.strrl.dev/prs/all/erikw)](#)
 
 
 
