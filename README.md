@@ -105,6 +105,8 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=nestedtext-ruby&theme=default#gh-light-mode-only)](https://github.com/erikw/nestedtext-ruby#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=dark#gh-dark-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=default#gh-light-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-dark-notify&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-dark-notify#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-dark-notify&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-dark-notify#gh-light-mode-only)
 
 
 
