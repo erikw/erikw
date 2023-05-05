@@ -95,6 +95,8 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 <!-- Own fork (to avoid hitting request limits): https://github.com/erikw/github-readme-stats -->
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-powerline#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-powerline&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-powerline#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=vim-keybindings-everywhere-the-ultimate-list&theme=dark#gh-dark-mode-only)](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=vim-keybindings-everywhere-the-ultimate-list&theme=default#gh-light-mode-only)](https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/erikw/dotfiles#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/erikw/dotfiles#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=restic-automatic-backup-scheduler&theme=dark#gh-dark-mode-only)](https://github.com/erikw/restic-automatic-backup-scheduler#gh-dark-mode-only)
