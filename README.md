@@ -47,7 +47,7 @@ Welcome to my GitHub profile!
 * **Why?** :point_right: My motivation is to make people's daily life better, by coding solutions to their problems! You'll find some of those solutions shared here. Check out my [blog](https://erikw.me/blog) for further showcase of some solutions.
 
 
-
+<br><br><br><br><br><br> <!-- GitHub markdown: no support for CSS style attribute in HTML tags to set margins on the stats image above. -->
 ## More information
 GitHub stats:<br>
 [![Number of years at GitHub](https://badges.strrl.dev/years/erikw)](#)
