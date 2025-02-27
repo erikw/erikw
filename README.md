@@ -1,4 +1,4 @@
-<!-- Empty line needed before code block -->
+<!-- Empty line needed before code block. -->
 <!--
 <h3>
 
