@@ -66,7 +66,6 @@ GitHub stats:<br>
 - **PyPi**: [pypi.org/user/erikw](https://pypi.org/user/erikw)
 - **AUR**: [aur.archlinux.org/packages?SeB=M&K=erikw](https://aur.archlinux.org/packages?SeB=M&K=erikw)
 - **HackerRank**: [hackerrank.com/erikw](https://www.hackerrank.com/erikw)
-- **Keybase**: [keybase.io/erikwestrup](https://keybase.io/erikwestrup)
 - **Gist**: [gist.github.com/erikw](https://gist.github.com/erikw)
 
 
