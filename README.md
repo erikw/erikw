@@ -38,7 +38,7 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
   </a>
 </div>
 
-*Software Engineer at [@Netlify](https://github.com/netlify/). Previously Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at [@Dubsmash](https://github.com/dubsmash), [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)*
+*Software Engineer at [@Netlify](https://github.com/netlify/). Previously Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash, [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)*
 
 Welcome to my GitHub profile!
 
