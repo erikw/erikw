@@ -1,7 +1,7 @@
 <!-- Empty line needed before code block. -->
 
 [![Typing my name](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=from%20collections%20import%20namedtuple%20as%20NT;print(%22Hi,%20I%27m%20{0.fname}%22.format(NT(%22SoftwareEngineer%22,%20%22fname%20lname%22)(%22Erik%22,%20%22Westrup%22))))](#)
-# Hi, I'm Erik &nbsp;[![Profile Views](https://komarev.com/ghpvc/?username=erikw&color=FE3A83&style=flat&label=Profile+Views)](#)
+# Hi, I'm Erik
 
 <div>
   <a href="https://github.com/erikw/github-stats#gh-dark-mode-only">
