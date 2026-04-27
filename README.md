@@ -14,17 +14,23 @@
   </a>
 </div>
 
-Software Engineer at [@Netlify](https://github.com/netlify/) · previously Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash and [@AxisCommunications](https://github.com/AxisCommunications), and Research Developer at [@ControlLTH](https://github.com/ControlLTH)/[@LundUniversity](https://github.com/lunduniversity/).
+*Available for new opportunities* · previously Software Engineer at [@Netlify](https://github.com/netlify/), Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash and [@AxisCommunications](https://github.com/AxisCommunications), and Research Developer at [@LundUniversity](https://github.com/lunduniversity/).*
 
-I build open-source tools born out of genuine need — from terminal powerlines to automation scripts. On GitHub since 2010, with a wide collection of projects across many languages and domains. Browse the pinned repos below or check out my [blog](https://erikw.me/blog) for more.
+Backend engineer and former engineering manager with 10+ years of experience building scalable distributed systems in Ruby, Java, Python, and C. I build open-source tools born out of genuine need — from terminal powerlines to automation scripts. On GitHub since 2010. Browse the pinned repos below or check out my [blog](https://erikw.me/blog) for more.
 
 <br><br><br><br><br><br> <!-- GitHub markdown: no support for CSS style attribute in HTML tags to set margins on the stats image above. -->
 
 ## Tech Stack
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](#)
 [![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
@@ -67,7 +73,7 @@ I build open-source tools born out of genuine need — from terminal powerlines 
 <!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 [![](https://img.shields.io/badge/OS-Linux%20%2F%20macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
 [![](https://img.shields.io/badge/Mobile-iOS-informational?style=flat&color=2bbc8a&logo=apple)](#)
-[![](https://img.shields.io/badge/Editor-Neovim%2C%20VSCode-informational?style=flat&color=2bbc8a&logo=neovim)](#)
+[![](https://img.shields.io/badge/Editor-Neovim%2C%20VSCode-informational?style=flat&color=2bbc8a&logo=neovim)](#) [1]
 [![](https://img.shields.io/badge/Indentation-%5Ct-informational?style=flat&color=2bbc8a&logo=accenture)](#)
 [![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=2bbc8a&logo=gnubash)](#)
 [![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&color=2bbc8a&logo=firefoxbrowser)](#)
@@ -76,7 +82,7 @@ I build open-source tools born out of genuine need — from terminal powerlines 
 [![](https://img.shields.io/badge/Language-right%20tool%20for%20the%20job-informational?style=flat&color=2bbc8a&logo=pastebin)](#)
 [![](https://img.shields.io/badge/Music-Electronic-informational?style=flat&color=2bbc8a&logo=applemusic)](#)
 
-...and yes, I've pair-programmed in Emacs. It was fine.
+[1] ...and yes, I've pair-programmed in Emacs. It was fine.
 
 ## Pinned Repos
 <!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
