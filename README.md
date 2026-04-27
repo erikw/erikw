@@ -1,31 +1,7 @@
 <!-- Empty line needed before code block. -->
-<!--
-<h3>
-
-```python
-from collections import namedtuple as NT
-print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname")("Erik", "Westrup")))
-
-```
-</h3>
--->
 
 [![Typing my name](https://readme-typing-svg.herokuapp.com/?multiline=true&size=12&width=650&color=FE3A83&lines=from%20collections%20import%20namedtuple%20as%20NT;print(%22Hi,%20I%27m%20{0.fname}%22.format(NT(%22SoftwareEngineer%22,%20%22fname%20lname%22)(%22Erik%22,%20%22Westrup%22))))](#)
-# Hi, I'm Erik
-<!--
-<a href="#" title="Erik's GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api?username=erikw&count_private=true&show_icons=true&theme=radical&custom_title=Erik%27s%20Public%20GitHub%20Stats" title="Erik's GitHub Stats" align="right" width="60%" alt="Erik's GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erikw&layout=compact&langs_count=10&hide=html&custom_title=Erik%27s%20Top%20Languages&theme=radical" title="Erik's Top Programming Languages" align="right" width="40%" alt="Erik's Top Programming Languages" />
--->
-<!--
-<img src="https://github-readme-stats-erikw.vercel.app/api?username=erikw&count_private=true&show_icons=true&theme=radical&custom_title=Erik%27s%20Public%20GitHub%20Stats" title="Erik's GitHub Stats" align="right" width="60%" alt="Erik's GitHub Stats" /> 
-<img src="https://github-readme-stats-erikw.vercel.app/api/top-langs?username=erikw&layout=compact&langs_count=10&hide=html&custom_title=Erik%27s%20Top%20Languages&theme=radical" title="Erik's Top Programming Languages" align="right" width="40%" alt="Erik's Top Programming Languages" />
-
-<img src="https://github.com/erikw/github-stats/blob/master/generated/overview.svg" title="Erik's GitHub Stats" align="right" width="55%" alt="Erik's GitHub Stats" /> 
-<img src="https://github.com/erikw/github-stats/blob/master/generated/languages.svg" title="Erik's Top Programming Languages" align="right" width="45%" alt="Erik's Top Programming Languages" />
-
-</a>
--->
+# Hi, I'm Erik &nbsp;[![Profile Views](https://komarev.com/ghpvc/?username=erikw&color=FE3A83&style=flat&label=Profile+Views)](#)
 
 <div>
   <a href="https://github.com/erikw/github-stats#gh-dark-mode-only">
@@ -38,18 +14,24 @@ print("Hi, I'm {0.firstname}".format(NT("SoftwareEngineer", "firstname lastname"
   </a>
 </div>
 
-*Software Engineer at [@Netlify](https://github.com/netlify/). Previously Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash, [@AxisCommunications](https://github.com/AxisCommunications), Assisting Research Developer at [@ControlLTH](https://github.com/ControlLTH/)/[@LundUniversity](https://github.com/lunduniversity/)*
+Software Engineer at [@Netlify](https://github.com/netlify/) · previously Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash and [@AxisCommunications](https://github.com/AxisCommunications), and Research Developer at [@ControlLTH](https://github.com/ControlLTH)/[@LundUniversity](https://github.com/lunduniversity/).
 
-Welcome to my GitHub profile!
-
-* **What?**:point_right: Here you can find my public git repos. As I've been on Github since 2010, my profile now has a big mixed bag of projects!
-* **How?** :point_right: I've pinned a few down below that you may find interesting.
-* **Why?** :point_right: My motivation is to make people's daily life better, by coding solutions to their problems! You'll find some of those solutions shared here. Check out my [blog](https://erikw.me/blog) for further showcase of some solutions.
-
+I build open-source tools born out of genuine need — from terminal powerlines to automation scripts. On GitHub since 2010, with a wide collection of projects across many languages and domains. Browse the pinned repos below or check out my [blog](https://erikw.me/blog) for more.
 
 <br><br><br><br><br><br> <!-- GitHub markdown: no support for CSS style attribute in HTML tags to set margins on the stats image above. -->
-## More information
-GitHub stats:<br>
+
+## Tech Stack
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)](#)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](#)
+
+## GitHub Stats
 [![Number of years at GitHub](https://badges.strrl.dev/years/erikw)](#)
 [![Number of public repositories](https://badges.strrl.dev/repos/erikw)](https://github.com/erikw?tab=repositories)
 [![Number of public Gists](https://badges.strrl.dev/gists/erikw)](https://gist.github.com/erikw)
@@ -58,36 +40,43 @@ GitHub stats:<br>
 [![Total issues](https://badges.strrl.dev/issues/all/erikw)](#)
 [![Total PRs](https://badges.strrl.dev/prs/all/erikw)](#)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=erikw&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+## Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=erikw&theme=radical&no-frame=true&no-bg=true&margin-w=4)](#)
 
-- **Homepage**: [erikw.me](https://erikw.me)
-- **LinkedIn**: [linkedin.com/in/erikwestrup](https://www.linkedin.com/in/erikwestrup)
-- **RubyGems**: [rubygems.org/profiles/erikw](https://rubygems.org/profiles/erikw)
-- **PyPi**: [pypi.org/user/erikw](https://pypi.org/user/erikw)
-- **AUR**: [aur.archlinux.org/packages?SeB=M&K=erikw](https://aur.archlinux.org/packages?SeB=M&K=erikw)
-- **HackerRank**: [hackerrank.com/erikw](https://www.hackerrank.com/erikw)
-- **Gist**: [gist.github.com/erikw](https://gist.github.com/erikw)
+## Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erikw/erikw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erikw/erikw/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/erikw/erikw/output/github-contribution-grid-snake.svg">
+</picture>
 
+## Find me elsewhere
+| | |
+|---|---|
+| 🌐 **Homepage** | [erikw.me](https://erikw.me) |
+| 💼 **LinkedIn** | [linkedin.com/in/erikwestrup](https://www.linkedin.com/in/erikwestrup) |
+| 💎 **RubyGems** | [rubygems.org/profiles/erikw](https://rubygems.org/profiles/erikw) |
+| 🐍 **PyPI** | [pypi.org/user/erikw](https://pypi.org/user/erikw) |
+| 🏗️ **AUR** | [aur.archlinux.org/packages?SeB=M&K=erikw](https://aur.archlinux.org/packages?SeB=M&K=erikw) |
+| 🏆 **HackerRank** | [hackerrank.com/erikw](https://www.hackerrank.com/erikw) |
+| 📝 **Gist** | [gist.github.com/erikw](https://gist.github.com/erikw) |
 
-## My :octocat:
-<a href="https://myoctocat.com/">
-  <img align="center" src="/erik_octocat.png" width="30%" alt="My OctoCat" />
-</a>
-
-## When I can choose, it would be...
+## Preferences & quirks
 <!-- Logos from https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
-[![](https://img.shields.io/badge/OS-Linux/macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
-[![](https://img.shields.io/badge/Mobile%20OS-iOS-informational?style=flat&color=2bbc8a&logo=android)](#)
-[![](https://img.shields.io/badge/Editor-Neovim,%20VSCode-informational?style=flat&&color=2bbc8a&logo=neovim)](#)
-[![](https://img.shields.io/badge/Indentation-\\t-informational?style=flat&&color=2bbc8a&logo=accenture)](#)
-[![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&&color=2bbc8a&logo=gnubash)](#)
-[![](https://img.shields.io/badge/Web%20Browser-Firefox-informational?style=flat&&color=2bbc8a&logo=firefoxbrowser)](#)
-[![](https://img.shields.io/badge/Theme-solarized-informational?style=flat&&color=2bbc8a&logo=awesomelists)](https://ethanschoonover.com/solarized/)
-[![](https://img.shields.io/badge/Code%20Review-Gerrit-informational?style=flat&&color=2bbc8a&logo=gerrit)](https://www.gerritcodereview.com/)
-[![](https://img.shields.io/badge/Programming%20Language-Best%201%204%20the%20job-informational?style=flat&&color=2bbc8a&logo=pastebin)](#)
-[![](https://img.shields.io/badge/Music-Electronic-informational?style=flat&&color=2bbc8a&logo=applemusic)](#)
+[![](https://img.shields.io/badge/OS-Linux%20%2F%20macOS-informational?style=flat&color=2bbc8a&logo=archlinux)](#)
+[![](https://img.shields.io/badge/Mobile-iOS-informational?style=flat&color=2bbc8a&logo=apple)](#)
+[![](https://img.shields.io/badge/Editor-Neovim%2C%20VSCode-informational?style=flat&color=2bbc8a&logo=neovim)](#)
+[![](https://img.shields.io/badge/Indentation-%5Ct-informational?style=flat&color=2bbc8a&logo=accenture)](#)
+[![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&color=2bbc8a&logo=gnubash)](#)
+[![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&color=2bbc8a&logo=firefoxbrowser)](#)
+[![](https://img.shields.io/badge/Theme-solarized-informational?style=flat&color=2bbc8a&logo=awesomelists)](https://ethanschoonover.com/solarized/)
+[![](https://img.shields.io/badge/Code%20Review-Gerrit-informational?style=flat&color=2bbc8a&logo=gerrit)](https://www.gerritcodereview.com/)
+[![](https://img.shields.io/badge/Language-right%20tool%20for%20the%20job-informational?style=flat&color=2bbc8a&logo=pastebin)](#)
+[![](https://img.shields.io/badge/Music-Electronic-informational?style=flat&color=2bbc8a&logo=applemusic)](#)
 
-but I'm flexible when needed, and I have even pair-programmed in Emacs...
+...and yes, I've pair-programmed in Emacs. It was fine.
 
 ## Pinned Repos
 <!-- Syntax: https://github.com/anuraghazra/github-readme-stats/discussions/1684#discussioncomment-2670295 -->
@@ -108,10 +97,3 @@ but I'm flexible when needed, and I have even pair-programmed in Emacs...
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=Tardsquad&repo=tardsquad-discord-bot&theme=default#gh-light-mode-only)](https://github.com/Tardsquad/tardsquad-discord-bot#gh-light-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-dark-notify&theme=dark#gh-dark-mode-only)](https://github.com/erikw/tmux-dark-notify#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats-erikw.vercel.app/api/pin/?username=erikw&repo=tmux-dark-notify&theme=default#gh-light-mode-only)](https://github.com/erikw/tmux-dark-notify#gh-light-mode-only)
-
-
-
-<!-- unused
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=erikw&hide_border=true&theme=redical)
-<a href="#" title="GitHub Streak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=erikw" align="right" width="45%" /></a>
--->
