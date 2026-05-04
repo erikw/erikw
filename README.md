@@ -18,7 +18,7 @@
 
 Backend engineer and former engineering manager with 10+ years of experience building scalable distributed systems in Ruby, Java, Python, and C. I build open-source tools born out of genuine need — from terminal powerlines to automation scripts. On GitHub since 2010. Browse the pinned repos below or check out my [blog](https://erikw.me/blog) for more.
 
-<br><br><br><br><br><br> <!-- GitHub markdown: no support for CSS style attribute in HTML tags to set margins on the stats image above. -->
+<br><br><br><br><br><br><br><br><br><br><br> <!-- GitHub markdown: no support for CSS style attribute in HTML tags to set margins on the stats image above. -->
 
 ## Tech Stack
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)](#)
