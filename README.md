@@ -15,7 +15,7 @@
   </a>
 </div>
 
-_Problem Solver, Creator & Practitioner_ · Previously Software Engineer at [@Netlify](https://github.com/netlify/), Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash and [@AxisCommunications](https://github.com/AxisCommunications), and Research Developer at [@LundUniversity](https://github.com/lunduniversity/).\*
+_Problem Solver, Creator & Practitioner_ · Previously Software Engineer at [@Netlify](https://github.com/netlify/), Engineering Manager at [@ResearchGate](https://github.com/researchgate), Software Engineer at @Dubsmash and [@AxisCommunications](https://github.com/AxisCommunications), and Research Developer at [@LundUniversity](https://github.com/lunduniversity/).
 
 Backend engineer and former engineering manager with 10+ years of experience building scalable distributed systems in Ruby, Java, Python, and C. I build open-source tools born out of genuine need — from terminal powerlines to automation scripts. On GitHub since 2010. Browse the pinned repos below or check out my [blog](https://erikw.me/blog) for more.
 
